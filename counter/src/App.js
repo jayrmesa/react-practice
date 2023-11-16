@@ -13,7 +13,7 @@ function App() {
       </p>
       <button onClick={() => {
         setCounter(counter + 1);
-      }}>Increase Counters
+      }}>Increase Counter
       </button>
     </div>
    )
