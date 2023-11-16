@@ -7,7 +7,7 @@ function App() {
    return(
     <div className = "App">
       <h1> Hello In Counting </h1>
-      <h2> Show me the numbah </h2>
+      <h2> Show me the numbahs </h2>
       <p>
         {counter}
       </p>
